@@ -1,0 +1,21 @@
+.example {
+    margin: 20px 0;
+    margin-bottom: 20px;
+    padding: 30px 50px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+  }
+  .ant-image-preview-root .ant-image-preview-wrap {
+    z-index: 1200;
+}
+.ant-image-preview-img{
+  margin: -150px auto;
+}
+.upload-img{
+  display:flex;
+  margin:1rem
+}
+.ant-notification .ant-notification-top{
+  z-index:1100;
+}

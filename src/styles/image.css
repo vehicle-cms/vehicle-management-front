@@ -1,0 +1,18 @@
+.selected-card{
+    border: 2px solid #21c980;
+}
+.ant-card-head{
+    height: 0px;
+    /* background: #21c980; */
+    /* color: white; */
+}
+.ant-card-body{
+    height: 0px;
+    display: flex;
+    align-items: center;
+    background: #21c980;
+    color: white;
+}
+.ant-card-meta-title{
+    margin-bottom: 0px;
+}

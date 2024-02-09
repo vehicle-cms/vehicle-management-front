@@ -1,0 +1,42 @@
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(Admiration-Pains.ttf);
+}
+@font-face {
+    font-family: myFirstFont1;
+    src: url(Gatrello.otf);
+}
+@font-face {
+    font-family: myFirstFont2;
+    src: url(Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: myFirstFont3;
+    src: url(sans.ttf);
+}
+@font-face {
+    font-family: myFirstFont4;
+    src: url(William-Narasi.otf);
+}
+.Admiration-Pains{
+    font-family: myFirstFont;
+    color: darkgreen;
+}
+.Gatrello{
+    font-family: myFirstFont1;
+    color: darkgreen;
+}
+.Roboto-Regular{
+    font-family: myFirstFont2;
+    color: darkgreen;
+}
+.sans{
+    font-family: myFirstFont3;
+    color: darkgreen;
+}
+.William-Narasi{
+    font-family: myFirstFont4;
+    color: darkgreen;
+}
+
